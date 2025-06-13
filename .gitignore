@@ -1,0 +1,24 @@
+<<<<<<< HEAD
+node_modules
+.env
+=======
+# Node modules
+node_modules/
+
+# Environment variables
+.env
+
+# Build files (optional, frontend ke liye useful ho sakta hai)
+dist/
+build/
+
+# Logs (optional)
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# OS or editor-specific
+.DS_Store
+Thumbs.db
+.vscode/
+>>>>>>> 528b3005f32f62ec0c6080b9cd270067aa41857b
